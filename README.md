@@ -2,6 +2,8 @@
 
 This is a Customer Relationship Management (CRM) tool designed for admin users to manage records. Admin users can register, log in, log out, and perform CRUD operations on customer records.
 
+![Screenshot](https://i.imgur.com/nrYMJ55l.png)
+
 ## Features
 
 - **User Authentication**: Admin users can register, log in, and log out.
